@@ -63,7 +63,7 @@ Currently learning Machine Learning and building projects to improve my skills.
 
 ---
 ### 📁 Featured Projects
--[Amazon Analysis](https://github.com/Alaa-mosa/amazon-analysis) - Data Science & ML project analyzing Amazon products
+-[Amazon Analysis](https://github.com/Alaa-Mosa/Amazon-EDA-Project.git) - Data Science & ML project analyzing Amazon products
 - 📊 Data Analysis Project  
 - 🤖 Machine Learning Model  
 - 🧠 AI Project  
