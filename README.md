@@ -18,6 +18,15 @@ Currently learning Machine Learning and building projects to improve my skills.
 - 🚀 My goal is to become a **Machine Learning Engineer**
 
 ---
+### 📚 Currently Learning
+
+- Python for Data Science  
+- Machine Learning Algorithms  
+- Data Analysis with Pandas  
+- Data Visualization  
+- Deep Learning Basics  
+
+---
 
 ### 🧠 Languages and Tools
 
@@ -52,6 +61,13 @@ Currently learning Machine Learning and building projects to improve my skills.
 
 ![snake gif](https://github.com/Alaa-Mosa/Alaaa-Mosa/blob/output/github-contribution-grid-snake.svg)
 
+---
+### 📁 Featured Projects
+-[Amazon Analysis](https://github.com/Alaa-mosa/amazon-analysis) - Data Science & ML project analyzing Amazon products
+- 📊 Data Analysis Project  
+- 🤖 Machine Learning Model  
+- 🧠 AI Project  
+- 📈 Data Visualization Dashboard  
 ---
 
 ### 🌐 Connect with me
