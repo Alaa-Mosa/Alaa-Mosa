@@ -1,44 +1,62 @@
-## Hey 👋, I'm Alaa!
+<h1 align="center">Hi 👋, I'm Alaa</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Data Science Learner 🤖📊</h3>
 
-<a href='YOUR_LINKEDIN_LINK'><img align='left' alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height='18px'/></a>
-<a href='YOUR_KAGGLE_LINK'><img align='left' alt="kaggle" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height='18px'/></a>
-
-<br/>
-
-### 👩‍💻 About Me
-
-I am **Alaa**, passionate about **Artificial Intelligence and Machine Learning 🤖**.  
-Currently learning and exploring **Data Science 📊** and building projects to improve my skills.
-
-- 🌱 I’m currently learning **Data Science & Machine Learning**
-- 🤖 Interested in **AI, ML, and Data Analysis**
-- 📊 Love working with **data and building intelligent models**
-- 💬 Ask me about **Python, Machine Learning, and Data Science**
-- 📫 Reach me on **LinkedIn**
+<p align="center">
+I am passionate about Artificial Intelligence and Data Science.  
+Currently learning Machine Learning and building projects to improve my skills.
+</p>
 
 ---
 
-### 🔨 Languages and Tools
+### 👩‍💻 About Me
 
-<img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" alt="TensorFlow" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="PyTorch" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="Pandas" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="Numpy" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 📊 Currently learning **Data Science**
+- 🐍 Working mainly with **Python**
+- 🌱 Learning **Deep Learning & Data Analysis**
+- 💬 Ask me about **Python, ML, and Data Science**
+- 🚀 My goal is to become a **Machine Learning Engineer**
 
-<br><br><br>
+---
+
+### 🧠 Languages and Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaa-Mosa&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaa-MosaE&layout=compact&theme=tokyonight)
 
 ---
 
-### 🚀 My Projects
+### 🔥 GitHub Streak
 
-Coming soon...
+![GitHub Streak](https://streak-stats.demolab.com/?user=Alaa-Mosa&theme=tokyonight)
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/Alaa-Mosa/Alaaa-Mosa/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌐 Connect with me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/alaa-alazhary-769536338  
+---
+
+⭐ Always learning and exploring the world of **AI & Data Science**
