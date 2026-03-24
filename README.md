@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alaa</h1>
+<h1 align="center">Hi , I'm Alaa</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Data Science Learner 🤖📊</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@ Currently learning Machine Learning and building projects to improve my skills.
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 📊 Currently learning **Data Science**
