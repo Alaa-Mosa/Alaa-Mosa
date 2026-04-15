@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Alaa</h1>
+<h1 align="center">Hi , I'm A'laa Mosa</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Data Science Learner 🤖📊</h3>
 
 <p align="center">
